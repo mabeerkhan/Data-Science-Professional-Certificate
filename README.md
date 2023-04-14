@@ -5,10 +5,10 @@ The program consists of 10 online courses that provide latest job-ready tools an
 
 This program is ACE® recommended—when completed, earn up to 12 college credits.  
 
-##### Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
-##### Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
+#### Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
+#### Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 
-###Projects
+## Projects
 
 -Extract and graph financial data with the Pandas Python library.
 
