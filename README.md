@@ -22,5 +22,6 @@ This program is ACE® recommended—when completed, earn up to 12 college credit
 
 -Train and compare machine learning models to predict if a space launch can reuse the first stage of a rocket.
 
-##### Extras:
+
+#### Extras:
 [Data Science Cheatsheet by FavioVazquez](https://github.com/FavioVazquez/ds-cheatsheets) 
