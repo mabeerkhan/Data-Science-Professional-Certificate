@@ -1,7 +1,7 @@
 # Data-Science-Professional-Certificate
 Data Science Professional Certificate Course Assignments &amp; Material
 
-The program consists of 10 online courses that provide latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms.
+The program consists of 10 online courses that provide the latest job-ready tools and skills, including open-source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modelling, and machine learning algorithms.
 
 This program is ACE® recommended—when completed, earn up to 12 college credits.  
 
@@ -24,4 +24,15 @@ This program is ACE® recommended—when completed, earn up to 12 college credit
 
 
 #### Extras:
-[Data Science Cheatsheet by FavioVazquez](https://github.com/FavioVazquez/ds-cheatsheets) 
+1) [Data Science Cheatsheet by FavioVazquez](https://github.com/FavioVazquez/ds-cheatsheets) 
+
+2) [Data Science Projects and resources by Siddhart](https://github.com/data-science-projects-and-resources)
+
+3) Free learning resources and Interview resources for Data Science, Machine Learning, Deep Learning, Data Analysis, NLP, Big Data and other Data Science related tools:
+
+|  No  | Section             | Link                                                                                                                            |
+| :--: | ------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+|  1   | E-books             | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks?tab=readme-ov-file#e-books)             |
+|  2   | Interview Resources | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks?tab=readme-ov-file#interview-resources) |
+|  3   | Cheat-Sheets        | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks?tab=readme-ov-file#cheat-sheets)        |
+
